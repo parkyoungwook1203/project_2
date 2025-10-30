@@ -662,13 +662,13 @@ EX)
 -
 **1. 병변이 두 가지 색상으로 섞여 있는 경우**
 <p align='left'>
-    <img src="./screnshot/e.png" alt="스크린샷" height = 300 width="600"> 
+    <img src="./screnshot/E.png" alt="스크린샷" height = 300 width="600"> 
 </p>
 
 
 **2. 체모가 병변 특성을 가려 특징 왜곡 발생한 경우**
 <p align='left'>
-    <img src="./screnshot/e2.png" alt="스크린샷" height = 300 width="600"> 
+    <img src="./screnshot/E2.png" alt="스크린샷" height = 300 width="600"> 
 </p>
 
 → segment 는 잘 찾지만 classification 에서 오류 발생
